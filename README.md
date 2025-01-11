@@ -3,7 +3,9 @@
 To run this version, please follow these steps:
 ### Step 1: Install the library
 ```
-     npm install
+     npm install[README.md](https://github.com/user-attachments/files/18384722/README.md)
+![Screenshot_20250111-114418](https://github.com/user-attachments/assets/33976342-fe2d-4628-8ee6-119e2dc36f13)
+
 ```
 
 ### Step 2: Add environment variables in the .env file
@@ -16,8 +18,11 @@ To run this version, please follow these steps:
 
 ```
 
-### Step 3: Run the project
+### Ste[README.md](https://github.com/user-attachments/files/18384725/README.md)
+
+p 3: Run the project
 
 ```
-     npm start
+     npm start[README.md](https://github.com/user-attachments/files/18384728/README.md)
+
 ```
